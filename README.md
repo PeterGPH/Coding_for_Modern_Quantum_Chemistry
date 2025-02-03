@@ -19,3 +19,5 @@ Question to be further investigated:
 1. what is the difference between subroutine and function? 
     I know the fact that funciton result in one values and subroutine result in multiple modified values, but how to use them? Or, more specifically, how to call a subroutine from another subroutine properly and how to share the data globally and locally?
 2. printing function is poor coded.
+Hope the code is helpful.
+Project 2 should be done within two weeks!
